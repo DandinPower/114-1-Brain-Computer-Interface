@@ -1,0 +1,9 @@
+[project]
+name = "114-1-brain-computer-interface"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mne>=1.10.2",
+]
